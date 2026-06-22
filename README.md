@@ -29,18 +29,17 @@ An interactive Power BI dashboard built to analyze sales, profitability, operati
  - MoM analysis helped identify changing business trends.
 
 ## 🚀 Dashboard Preview
-## 📷 Dashboard Preview
 
 <p align="center">
   <img src="images/dashboard.png" width="1000">
 </p>
-## 📷 Dashboard Preview
+## 📷 Shipments by Geo Tooltip
 
 <p align="center">
-  <img src="images/Shipments by Geo tooltip.png" width="1000">
+  <img src="images/shipments by Geo tooltip.png" width="1000">
 </p>
 
-## 📷 Dashboard Preview
+## 📷 Product & Sales person details using Bookmarks
 
 <p align="center">
   <img src="images/product & sales person details using bookmarks.png" width="1000">
