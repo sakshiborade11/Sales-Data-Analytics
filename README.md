@@ -1,5 +1,3 @@
-# Sales-Data-Analytics
-
 # 📊 Business Performance & Sales Analytics Dashboard
 
 An interactive Power BI dashboard built to analyze sales, profitability, operational costs, and business performance using 6K+ sales records. 
@@ -8,6 +6,7 @@ An interactive Power BI dashboard built to analyze sales, profitability, operati
 ## 🎯 Objective
   To develop a BI dashboard that enables stakeholders to monitor sales performance, profitability, operational costs, and 
   Month-over-Month business trends.
+
 
 ## 🛠️ Tech Stack
 - Power BI
@@ -27,6 +26,7 @@ An interactive Power BI dashboard built to analyze sales, profitability, operati
  - Sales growth did not always translate into higher profitability.
  - Regional and salesperson performance varied across the business.
  - MoM analysis helped identify changing business trends.
+
 
 ## 🚀 Dashboard Preview
 
