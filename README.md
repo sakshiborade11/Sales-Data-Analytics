@@ -33,6 +33,7 @@ An interactive Power BI dashboard built to analyze sales, profitability, operati
 <p align="center">
   <img src="images/dashboard.png" width="1000">
 </p>
+
 ## 📷 Shipments by Geo Tooltip
 
 <p align="center">
